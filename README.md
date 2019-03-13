@@ -77,7 +77,7 @@ https://github.com/DaToo-J/Notes-of-Statistical-Learning-Method/blob/master/1.%2
 - nlp、信息检索、文本数据挖掘
 
 
-
+# internal
 
 ## 1.2 监督学习
 
