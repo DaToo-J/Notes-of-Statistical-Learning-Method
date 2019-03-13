@@ -1,5 +1,5 @@
 
--toc
+markdown-toc
 
 
 # 一、 统计学习方法概论
